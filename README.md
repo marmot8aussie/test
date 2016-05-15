@@ -2,4 +2,5 @@
 a test repository to verify CI tool
 
 directories
-//src
+README.md
+./src
