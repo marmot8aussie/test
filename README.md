@@ -8,3 +8,4 @@ README.md
 
 future directories:
 ./build/
+./docs/
