@@ -1,6 +1,7 @@
 # test
 a test repository to verify CI tool
 
-directories
+directories:
+
 README.md
 ./src
