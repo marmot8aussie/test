@@ -5,3 +5,6 @@ directories:
 
 README.md
 ./src
+
+future directories:
+./build/
