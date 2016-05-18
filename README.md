@@ -9,3 +9,4 @@ README.md
 future directories:
 ./build/
 ./docs/
+./include/
